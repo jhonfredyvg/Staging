@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="JHON_SQLEXPRESS.staging076_093_094"
+  DTS:DTSID="{82CB5BAC-7A3F-4FCC-88A5-73B17B8001B8}"
+  DTS:CreationName="ADO.NET:System.Data.SqlClient.SqlConnection, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=JHON\SQLEXPRESS;Initial Catalog=staging076_093_094;Integrated Security=True;Encrypt=False;Application Name=SSIS-ETL-{82CB5BAC-7A3F-4FCC-88A5-73B17B8001B8}JHON\SQLEXPRESS.staging076_093_094;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
